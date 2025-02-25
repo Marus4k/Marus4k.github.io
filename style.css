@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.active {
+    color:gray;
+}
+
+
+.nav-link:hover {
+    color:white;
+}
+
+ .center {
+     text-align: center;
+}
+
+
+h1 {
+    font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color
+}
+
+p {
+    font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color:white;
+}
+
+ul {
+   
+    padding: 10px;
+    color:white;
+}
+
+li {
+    font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color:white;
+}
+
+.list-group {
+    color:gray
+}
+
+.img script {
+    padding-left: 20px;
+}
